@@ -17,9 +17,10 @@ The project applies the following techniques for Bayesian CNN-based classificati
 - **Bayesian Inference**: Bayesian techniques are used to estimate the posterior distribution of model parameters, allowing for uncertainty estimation in predictions.
 - **Variational Inference**: Variational methods are employed to approximate complex posterior distributions and make the training process tractable.
 
+## Results
 
 ![ALT TEXT](/res_1.png)
-
+![ALT TEXT](/res_2.png)
 
 ## Conclusion
 

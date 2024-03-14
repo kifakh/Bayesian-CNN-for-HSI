@@ -18,9 +18,14 @@ The project applies the following techniques for Bayesian CNN-based classificati
 - **Variational Inference**: Variational methods are employed to approximate complex posterior distributions and make the training process tractable.
 
 ## Results
-
+## The detailed block diagram of the work using 3 approaches:
 ![ALT TEXT](/res_1.png)
 
+## Comparing the results of the best methods
+Noting the effectiveness of Bayesian CNN for the small-size classes.
+![ALT TEXT](/res_2.png)
+
+## Results of BCNN 
 ![ALT TEXT](/res_3.png)
 ![ALT TEXT](/res_4.png)
 

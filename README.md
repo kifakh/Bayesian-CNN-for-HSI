@@ -19,8 +19,9 @@ The project applies the following techniques for Bayesian CNN-based classificati
 
 ## Results
 
-![ALT TEXT](/res_1.png)
-![ALT TEXT](/res_2.png)
+
+![ALT TEXT](/res_3.png)
+![ALT TEXT](/res_4.png)
 
 ## Conclusion
 
